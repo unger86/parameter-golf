@@ -1,10 +1,5 @@
 # ⛳ OpenAI Parameter Golf: M4-Optimized 15.6M Model
 
-![Model Size](https://img.shields.io)
-![Framework](https://img.shields.io)
-![Hardware](https://img.shields.io)
-![License](https://img.shields.io)
-
 > **Эффективная языковая модель, специально оптимизированная для работы на Apple Silicon M4. Максимальная плотность знаний при строгом лимите параметров.**
 
 ---
